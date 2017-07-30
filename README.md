@@ -4,17 +4,13 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Courtney Pasco ([courtneyrae23@berkeley.edu](mailto:courtneyrae23@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See Represent! Prog02-C Walkthrough (https://www.youtube.com/watch?v=P1rsqGKgSIs)
 
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
